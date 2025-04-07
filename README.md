@@ -1,2 +1,2 @@
-# fut
-app de fut
+# NotiTech
+Sitio de Noticias
