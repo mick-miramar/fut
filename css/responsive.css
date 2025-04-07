@@ -1,0 +1,14 @@
+/* Archivo: responsive.css */
+@media (max-width: 600px) {
+
+    /* Ajuste de la barra de navegación en pantallas pequeñas */
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    /* Ajuste del ancho de los artículos en móviles */
+    article {
+        width: 95%;
+    }
+}

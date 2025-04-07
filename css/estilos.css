@@ -1,0 +1,70 @@
+/* Estilos generales del cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    /* Fuente del texto */
+    background-color: #f4f4f4;
+    /* Color de fondo */
+    text-align: center;
+    /* Alineación del texto */
+    margin: 0;
+    /* Elimina márgenes por defecto */
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #222;
+    /* Color de fondo del header */
+    color: white;
+    /* Color del texto */
+    padding: 10px 0;
+    /* Espaciado interno */
+}
+
+/* Estilos de la barra de navegación */
+nav ul {
+    list-style-type: none;
+    /* Elimina viñetas de la lista */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    /* Muestra los elementos en línea */
+    margin: 0 15px;
+    /* Espaciado entre elementos */
+}
+
+nav ul li a {
+    color: white;
+    /* Color del texto de los enlaces */
+    text-decoration: none;
+    /* Elimina subrayado */
+}
+
+/* Sección principal */
+section {
+    padding: 20px;
+    /* Espaciado interno */
+}
+
+/* Estilos de los artículos */
+article {
+    background-color: white;
+    /* Fondo de los artículos */
+    padding: 15px;
+    margin: 10px auto;
+    width: 80%;
+    /* Ancho relativo */
+    border-radius: 5px;
+    /* Bordes redondeados */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    /* Sombra sutil */
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #222;
+    color: white;
+    padding: 10px 0;
+    margin-top: 20px;
+}
